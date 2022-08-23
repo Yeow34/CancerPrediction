@@ -4,3 +4,5 @@ The purpose of this project is to create a machine learning model that can learn
 In order to speed up the training process, the correlation between the parameters have been examined via pair plot and correlation table as shown follows.
 ![image](https://user-images.githubusercontent.com/69382649/186183614-076ad023-4d1c-4c5c-a604-4b026f17c2f9.png)
 Figure 1: pair plot
+![image](https://user-images.githubusercontent.com/69382649/186183928-76700491-7b29-49ad-8f1d-afcb9a1f83fe.png)
+Figure 2: correlation table heat map
