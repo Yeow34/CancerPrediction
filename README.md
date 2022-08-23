@@ -12,3 +12,5 @@ It was found that the parameter, radius was highly correlated with perimeter and
 Figure 3: correlation table heat map
 
 The model was eventually trained using the functions provided from the library of Scikit-learn, and eventually produced the accuracy of 95.6%!
+
+The code can be found in the file 'cancer_prediction'.
